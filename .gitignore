@@ -1,0 +1,6 @@
+.env
+package.json
+node_modules
+src/static
+.idea
+src/logs
